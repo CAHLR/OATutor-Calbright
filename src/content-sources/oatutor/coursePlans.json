@@ -1,0 +1,45 @@
+[
+    {
+        "courseName": "Calbright Demo",
+        "courseOER": "https://docs.google.com/document/d/1k0Gig7mVLWpJpJbfUZWbA2hxpGenA4wUyshqAbeO5dU/edit",
+        "courseLicense": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
+        "lessons": [
+            {
+                "id": "6791BmkR-mHeb-Ys2uyW4XLZ",
+                "name": "Human-Created Hints",
+                "topics": "",
+                "allowRecycle": false,
+                "learningObjectives": {
+                    "human": 0.85
+                }
+            },
+            {
+                "id": "2uJNtOtK-w060-v2UVw5bUrk",
+                "name": "Worked Solutions",
+                "topics": "",
+                "allowRecycle": false,
+                "learningObjectives": {
+                    "worked_solutions": 0.85
+                }
+            },
+            {
+                "id": "7hJhJhCZ-YRYk-FBRLPB8bv9",
+                "name": "AI Generated Scaffolded Hints",
+                "topics": "",
+                "allowRecycle": false,
+                "learningObjectives": {
+                    "scaffolded": 0.85
+                }
+            },
+            {
+                "id": "0vFfgrdo-tdj1-TCtoUgWJd1",
+                "name": "AI Generated Questions",
+                "topics": "",
+                "allowRecycle": false,
+                "learningObjectives": {
+                    "questions": 0.85
+                }
+            }
+        ]
+    }
+]
